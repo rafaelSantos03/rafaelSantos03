@@ -1,4 +1,4 @@
-## Eai eu sou o Rafael Santos, estudante de programação front-end e tecnologia!
+## Oi, eu sou o Rafa, um apaixonado por tecnologia e sempre em busca de aprender mais!
 <div align="center">
   <a href="https://github.com/rafaelSantos03">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelSantos03&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
