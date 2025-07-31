@@ -1,13 +1,12 @@
 ## Oi, eu sou o Rafa, um apaixonado por tecnologia e sempre em busca de aprender mais!
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/windows-11.webp">
-     <img align="center" alt="microsoft" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/microsoft-365.webp">
-   <img align="center" alt="microsoft" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/microsoft-365-admin-center.webp">
-     <img align="center" alt="microsoft" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/microsoft-exchange.webp">
+   <img align="center" alt="windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-windows.svg">
+     <img align="center" alt="microsoft" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-365-admin-center.svg">
+   <img align="center" alt="microsoft" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-365.svg">
    <img align="center" alt="microsoft" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-exchange.svg">
-        <img align="center" alt="intune" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/microsoft-intune.webp">
-           <img align="center" alt="azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/microsoft-azure.webp">
+        <img align="center" alt="intune" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-intune.svg">
+           <img align="center" alt="azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-azure.svg">
            
            
 
