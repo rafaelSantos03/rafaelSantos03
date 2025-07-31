@@ -1,10 +1,11 @@
 ## Oi, eu sou o Rafa, um apaixonado por tecnologia e sempre em busca de aprender mais!
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/microsoft-azure.webp">
+   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/windows-11.webp">
+     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/microsoft.webp">
+        <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/microsoft-intune.webp">
+           <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/microsoft-azure.webp">
+              <img align="center" alt="Python" height="30" width="40" src=" https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/office-365.webp">
 
 
 </div>
