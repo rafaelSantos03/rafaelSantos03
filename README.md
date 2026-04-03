@@ -1,6 +1,5 @@
 ## 👋 Olá! Sou o Rafael.
-Entusiasta de tecnologia, com foco em infraestrutura, cloud e automação.
-Acredito no poder da tecnologia para resolver problemas reais e transformar ambientes.
+Entusiasta de tecnologia, com foco em infraestrutura, cloud e automação. Acredito no poder da tecnologia para resolver problemas reais e transformar ambientes.
 
 <div style="display: inline_block"><br>
    <img align="center" alt="windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-windows.svg">
